@@ -19,3 +19,6 @@ Team:
 
 Listen to the recording of a performance, and more about the project: https://soil.hypotheses.org/earth-as-earth-diane-schuh
 Score for performance available: https://soil.hypotheses.org/files/2025/11/earthasearth_3nov.pdf
+
+Screenshot of the Max patch
+<img width="1059" height="924" alt="EaE-patch" src="https://github.com/user-attachments/assets/950d3990-8e9c-4f31-880d-1755ce9d1255" />
