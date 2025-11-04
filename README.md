@@ -1,4 +1,4 @@
-# earth-as-earth
+# earth as earth
 real time electronics patch for the mixed piece "earth as earth"
 
 Programme notes:
